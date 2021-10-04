@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @semy1301
 - <html>
-  <div>asd</div>
+  <div color:#212121>asd</div>
   </html>
 
 <!---
