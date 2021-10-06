@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @semy1301
 - <html>
-<span style="color: green"> Some green text </span>
   </html>
 
 <!---
